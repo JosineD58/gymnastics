@@ -4,9 +4,23 @@
     width: 100%; 
     height: 80px; 
     background-color: $darkBlue;
+    display: flex; 
+    justify-content: flex-end;
+    align-items: center;
+
+
 
 }
 
 .navlink {
     color: $softPink; 
+    font-size: 25px; 
+    text-decoration: none;
+    font-family: 'Montseratt', regular;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+
+.links {
+    margin: 20px; 
 }

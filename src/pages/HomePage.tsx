@@ -1,12 +1,7 @@
 const HomePage = () => {
   return (
     <div>
-      <h1 className="titleHome">Home</h1>
-      <img
-        className="homepage"
-        src="https://www.kindpng.com/picc/m/57-575100_pokemon-png-transparent-png.png"
-        alt="pokemon"
-      />
+      <h1 className="titleHome">Welcome to the website!</h1>
     </div>
   );
 };
