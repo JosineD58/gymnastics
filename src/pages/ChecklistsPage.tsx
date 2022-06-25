@@ -14,6 +14,9 @@ const ChecklistPage = () => {
         </Row>
         <Row>
           <Col>
+            <p className="nameChecklist">Naam:</p>
+          </Col>
+          <Col>
             <p className="legChecklist">Jeugd E</p>
           </Col>
           <Col>
@@ -21,6 +24,12 @@ const ChecklistPage = () => {
           </Col>
           <Col>
             <p className="legChecklist3">Senior C</p>
+          </Col>
+          <Col>
+            <p className="legChecklist4">Senior B</p>
+          </Col>
+          <Col>
+            <p className="legChecklist5">Keuze</p>
           </Col>
         </Row>
       </Container>
