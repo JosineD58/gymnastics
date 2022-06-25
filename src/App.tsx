@@ -4,6 +4,7 @@ import NavBar from "./pages/NavBar";
 import { Routes, Route, NavLink } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import ChecklistPage from "./pages/ChecklistsPage";
+import { Container, Row, Col } from "react-bootstrap";
 
 function App() {
   return (
